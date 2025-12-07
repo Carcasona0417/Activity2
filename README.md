@@ -1,4 +1,3 @@
-# SIA-Sampleact 
+# APP DEV FINAL OUTPUT
 
-- this repository is for react activity practices
-- This is README --
+-- BIONOTE ---
